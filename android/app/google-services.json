@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725185198928",
+    "firebase_url": "https://habbit-tracker-33262.firebaseio.com",
+    "project_id": "habbit-tracker-33262",
+    "storage_bucket": "habbit-tracker-33262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725185198928:android:f0148f71c9051b5d4c0a55",
+        "android_client_info": {
+          "package_name": "com.slomosolutions.habbittracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725185198928-e6g6pb96v0vq8v7jdrpme041a9ki00ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slomosolutions.habbittracker",
+            "certificate_hash": "4f15c6d1eeaffc3a00837c21f5de4817d4b528e0"
+          }
+        },
+        {
+          "client_id": "725185198928-6rcmmjgqsafr0mmgjeicc6qloqfqnnc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX0IcljGCr7PWx1EUMwB2_yzM_0oDTOOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725185198928-6rcmmjgqsafr0mmgjeicc6qloqfqnnc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
